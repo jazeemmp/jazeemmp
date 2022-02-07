@@ -1,5 +1,5 @@
 ### Hi there 👋
-- i'm [**Mohammed Jazeem**](https://www.jazeemmp.gq/)
+- i'm [**Mohammed Jazeem**](https://jazeemmp.gq/)
 -
 
 - 🔭 I’m currently Learning
@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me about anything (but, looking for expert answer, Go away 😑)
-- 📫 How to reach me: Instagram - [Scurire_](https://www.instagram.com/scurire_/?hl=en)
+- 📫 How to reach me: Instagram - [**Scurire_**](https://www.instagram.com/scurire_/?hl=en)
