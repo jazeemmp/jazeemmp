@@ -9,7 +9,3 @@
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me about anything (but, looking for expert answer, Go away 🚶🚶🚶)
 - 📫 How to reach me: Instagram - [Scurire_](https://www.instagram.com/scurire_/?hl=en)
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=OO7ROBot&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
