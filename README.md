@@ -15,5 +15,5 @@
 <a href="https://git-scm.com/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.w3.org/html/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/css/" class="padded" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" widtj="30" height="30"/> </a>
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="30" height="30"/>
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="30" height="40"/>
 ---
