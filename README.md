@@ -1,6 +1,5 @@
 ### Hi there 👋
 - i'm [**Mohammed Jazeem**](https://jazeemmp.gq/)
--
 
 - 🔭 I’m currently Learning
 - 🌱 I’m currently learning from my mistakes..
